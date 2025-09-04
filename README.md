@@ -1,5 +1,5 @@
 # 📊 User Engagement Funnel Analysis
-This project explores user behavior in an e-commerce setting — from product views to purchases — using funnel metrics and retention curves.
+This project explores user behavior in an e-commerce setting, from product views to purchases, using funnel metrics and retention curves.
 
 ### 🧠 Skills Demonstrated
 - Funnel Analysis (view → cart → purchase)
